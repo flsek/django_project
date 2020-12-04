@@ -1,0 +1,7 @@
+body {
+    background: white url("images/gomin.jpg") no-repeat;
+    background-position: center top;
+}
+li a {
+    color: deeppink;
+}
